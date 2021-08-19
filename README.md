@@ -7,7 +7,7 @@ The Python file included here is not intended to be run on its own. If you're go
 
 **Instructions**
 
-If, for some reason, you are forced to make use of the raw code (due to an error on your computer, an error in the code while interacting with your computer, or some other error), follow the instructions below to run the code. 
+If, for some reason, you are forced to make use of the raw code (due to an error on your computer, an error in the code while interacting with your computer, or some other error), follow the instructions below to run the code. For Windows users, you will need to ensure that you have installed Python prior to use. Linux and MacOS systems come with Python pre-installed. 
 
 1) Open your favorite text editor, create a new file, and copy and paste the raw Python code into it. 
 2) Save the file with the name "recruitment automation" or similar. Ensure that when you save the file that you include ".py" at the end to denote that it is a Python file. 
@@ -15,4 +15,4 @@ If, for some reason, you are forced to make use of the raw code (due to an error
 4) WINDOWS: Once you have opened your terminal, locate the directory that your file is in. For simplicity's sake, I highly suggest placing it in your "C:\\Users\username" folder. If you did not, you will need to locate the file on your computer's drive, copy the folder path, and type `cd "path"` into the terminal, replacing "Path" with your folder's path. For example, "C:\\Users\username\folder" is what your path should resemble. Once you have done this, you can simply type the name of your text file (ie, "recruitment_automation.py") into the command line and it will run. 
 4) LINUX: Once you open your terminal, type `python3 "recruitment_automation.py"` and the program will run in your terminal. 
 4) MAC: (I dont use OSX. Blank until testing can be done. In the meantime, I suggest trying something similar to the Linux solution)
-5) Enjoy your recruitment!
+5) Enjoy your recruitment! Of course, this is not the ideal version of using the program, but it may be the only soltion if you have issues with the downloadable one. 
